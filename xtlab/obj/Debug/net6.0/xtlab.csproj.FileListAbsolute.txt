@@ -1,0 +1,14 @@
+C:\Users\leif.le\source\repos\xtlab\xtlab\bin\Debug\net6.0\xtlab.exe
+C:\Users\leif.le\source\repos\xtlab\xtlab\bin\Debug\net6.0\xtlab.deps.json
+C:\Users\leif.le\source\repos\xtlab\xtlab\bin\Debug\net6.0\xtlab.runtimeconfig.json
+C:\Users\leif.le\source\repos\xtlab\xtlab\bin\Debug\net6.0\xtlab.dll
+C:\Users\leif.le\source\repos\xtlab\xtlab\bin\Debug\net6.0\xtlab.pdb
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.AssemblyInfoInputs.cache
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.AssemblyInfo.cs
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.csproj.CoreCompileInputs.cache
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.dll
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\refint\xtlab.dll
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.pdb
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\xtlab.genruntimeconfig.cache
+C:\Users\leif.le\source\repos\xtlab\xtlab\obj\Debug\net6.0\ref\xtlab.dll
